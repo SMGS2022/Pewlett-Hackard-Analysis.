@@ -6,6 +6,9 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ## Employee Database SQL Query
 
+![Employee_Database_challenge.sql](/Queries/Employee_Database_challenge.sql)
+
+https://github.com/SMGS2022/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_challenge.sql
 
 ## Results
 
