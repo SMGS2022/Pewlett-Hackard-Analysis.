@@ -4,13 +4,11 @@
 
 Bobby's boss wants to determine the number of retiring employees per title, and identify employees eligible for the mentorship program. 
 
-## Employee Database SQL Query
-
-![Employee_Database_challenge.sql](/Queries/Employee_Database_challenge.sql)
-
-https://github.com/SMGS2022/Pewlett_Hackard_Analysis/blob/main/Queries/Employee_Database_challenge.sql
-
 ## Results
+
+### Number of Retiring Employees by Title
+
+![retirement_titles](/Data/retirement_titles.csv)
 
 The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
 
