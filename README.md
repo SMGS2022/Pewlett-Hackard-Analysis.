@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bobby's boss wants to determine the number of retiring employees per title, to identify employees who are eligible to participate in a mentorship program, he also wants a report that summarizes the analysis and helps prepare for the “silver tsunami” as many current employees reach retirement age.
+Bobby's boss wants to determine the number of retiring employees per title, and identify employees eligible for the mentorship program. 
 
 ## Employee Database SQL Query
 
