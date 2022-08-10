@@ -6,27 +6,39 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ## Results
 
-### Number of Retiring Employees by Title
+##### In using the initial constructed ERD as a reference, I was able to create a Retirement Titltes table holding all the most recent titles of employees born between January 1, 1952 and December 31, 1955.
 
-![retirement_titles](/Data/retirement_titles.csv)
+### Retiring Employees by Title (not full list)
 
-The Retirment Titles table indicates:
+#### The Unique Titles Table Indicates:
+
 - Employees born between January 1st, 1952 and December 31st, 1955
-- 
+- Employee numbers, first/last names, and most recent title
+- Exclusion of employees no longer working for the company
 
-Analyz the data a bit, we can conclud:
+![unique_titles](/Data/unique_titles.png)
 
-90,398 employees or 37.7% of the company's total current employees will be retiring soon.
+### Number of Retiring Employees per Title 
 
-Senior Engineer, Senior Staff and Engineer will be the most impacted positions with respectively 29,414, 28,254 and 14,222 futures retirees, which correspond to 12.3%, 11.8% and 5.92% of the company's workforce.
+#### The Retiring Titles table Indicates:
 
-Only 2 Managers will be retiring soon. It seems that management renewal has been to focus of the company to the detriment of technical positions renewal.
+- Complete count of employees retiring per title
+- Descending order of employees retiring per title
 
-Mentorship Eligibility table was created and it holds all the current employees who were born between January 1st, 1965 and December 31st, 1965.
+![retiring_titles](/Data/retiring_titles.png)
+
+### Mentorship Eligibilty Table (not full list)
+
+##### Using the initial ERD once more, I created a mentorship-eligibility table encompassing the current employees born between January 1, 1965 and December 31, 1965.
+
+![mentorship_eligibilty](/Data/mentorship_eligibilty.png)
+
+#### The Mentorship Eligibilty Table Indicates:
+
+- Eligible employees able to participate in a mentorship program
 
 ## Summary
 
-90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
-
-There are 1,549 eligible mentors in the company. If we assume that they will all be willing to participate in the mentorship program, it will imply that each mentor would have an average of 58 mentees, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
-
+- 90,398 roles will need to be filled. 
+- Hopefully of all the employees eligible for the mentorship program participate, however; there are still a significant amount of employees in need of a mentor. 
+- Focus has been on management positions over the years and not technocal position renewal. 
