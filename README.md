@@ -10,7 +10,7 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ![retirement_titles](/Data/retirement_titles.csv)
 
-The following Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
+The Retiring Titles table contains the number of titles filled by employees who are retiring.(employees who were born between January 1st, 1952 and December 31st, 1955.)
 
 Analyz the data a bit, we can conclud:
 
