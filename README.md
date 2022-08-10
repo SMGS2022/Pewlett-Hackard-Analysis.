@@ -6,9 +6,9 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ## Results
 
-##### In using the initial constructed ERD as a reference, I was able to create a Retirement Titltes table holding all the most recent titles of employees born between January 1, 1952 and December 31, 1955.
-
 ### Retiring Employees by Title (not full list)
+
+##### In using the initial constructed ERD as a reference, I was able to create a Retirement Titltes table holding all the most recent titles of employees born between January 1, 1952 and December 31, 1955.
 
 #### The Unique Titles Table Indicates:
 
@@ -31,11 +31,11 @@ Bobby's boss wants to determine the number of retiring employees per title, and 
 
 ##### Using the initial ERD once more, I created a mentorship-eligibility table encompassing the current employees born between January 1, 1965 and December 31, 1965.
 
-![mentorship_eligibilty](/Data/mentorship_eligibilty.png)
-
 #### The Mentorship Eligibilty Table Indicates:
 
 - Eligible employees able to participate in a mentorship program
+
+![mentorship_eligibilty](/Data/mentorship_eligibilty.png)
 
 ## Summary
 
